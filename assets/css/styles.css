@@ -1,5 +1,19 @@
 @import url('reset.css');
 
+@media only screen and (max-width: 490px) {
+    .banner {
+        width: 800px
+    }
+
+    #transform-world {
+        width: 800px
+    }
+    footer {
+        width: 800px
+    }
+}
+
+
 body {
     background-color: black;
 }
